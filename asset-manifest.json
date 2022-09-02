@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videofond/static/css/main.eca810f4.css",
+    "main.js": "/videofond/static/js/main.12b656a2.js",
+    "index.html": "/videofond/index.html",
+    "main.eca810f4.css.map": "/videofond/static/css/main.eca810f4.css.map",
+    "main.12b656a2.js.map": "/videofond/static/js/main.12b656a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca810f4.css",
+    "static/js/main.12b656a2.js"
+  ]
+}
