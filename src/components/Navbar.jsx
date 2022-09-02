@@ -19,7 +19,7 @@ const Navbar = () => (
   >
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
       <img src={logo} alt="logo" height={45} />
-      <Typography variant="h5" sx={{color:"#fff", pl:'10px',fontWeight:'bold'}}>VideoFond</Typography>
+      <Typography variant="h5" display={{xs:'none', md:'block'}} sx={{color:"#fff", pl:'10px',fontWeight:'bold'}}>VideoFond</Typography>
     </Link>
     <SearchBar />
   </Stack>
